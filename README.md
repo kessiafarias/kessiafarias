@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, sou Késsia Farias</h1>
+<h1 align="center"> Olá 👋, sou Késsia Farias</h1>
 <h3 align="center">Sou estudante de Ciência de Dados</h3>
 
 - 🔭 Atualmente trabalho como **Compradora em uma Distribuidora de Material de Construção Civil**
@@ -26,5 +26,7 @@
 <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kessiafarias&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="kessiafarias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiafarias&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
