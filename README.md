@@ -1,7 +1,7 @@
 <h1 align="center"> Olá 👋, sou Késsia Farias</h1>
 <h3 align="center">Sou estudante de Ciência de Dados</h3>
 
-- 🔭 Atualmente trabalho como **Compradora em uma Distribuidora de Material de Construção Civil**
+- 🔭 Atualmente trabalho como **Compradora em uma Construtora**
 
 - 🌱 No momento atual estou aprendendo **Python, SQL, Linguagem R, Estatística, Bando de Dados Relacional e não Relacional**  
 
