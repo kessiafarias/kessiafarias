@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como **Compradora em uma Construtora**
 
-- 🌱 No momento atual estou aprendendo **Python, SQL, Linguagem R, Estatística, Bando de Dados Relacional e não Relacional**  
+- 🌱 No momento atual estou aprendendo **Python, SQL, Power BI, Data Stúdio, Estatística, Banco de Dados Relacional e não Relacional**  
 
 - 📫 Como me contatar: **kessiacientistadedados@gmail.com**
 
