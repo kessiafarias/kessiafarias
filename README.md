@@ -1,7 +1,7 @@
 <h1 align="center"> Olá 👋, sou Késsia Farias</h1>
 <h3 align="center">Sou estudante de Ciência de Dados</h3>
 
-- 🔭 Atualmente trabalho como **Compradora em uma Construtora**
+- 🔭 Atualmente trabalho na empresa Stefanini Group prestando serviços para empresa Petrobras como **Diligenciador no setor de Suprimentos/Bens**
 
 - 🌱 No momento atual estou aprendendo **Python, SQL, Power BI, Data Stúdio, Estatística, Banco de Dados Relacional e não Relacional**  
 
