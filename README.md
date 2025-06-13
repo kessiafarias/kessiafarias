@@ -1,9 +1,9 @@
 <h1 align="center"> Olá 👋, sou Késsia Farias</h1>
-<h3 align="center">Sou estudante de Ciência de Dados</h3>
+<h3 align="center">Sou Analista de Projetos e BI</h3>
 
-- 🔭 Atualmente trabalho na empresa Stefanini Group prestando serviços para empresa Petrobras como **Diligenciador no setor de Suprimentos/Bens**
+- 🔭 Atualmente trabalho na empresa Unimed João Pessoa no setor do NPG (Núcleo de Planejamento e Gestão) no pilar de Projetos**
 
-- 🌱 No momento atual estou aprendendo **Python, SQL, Power BI, Data Stúdio, Estatística, Banco de Dados Relacional e não Relacional**  
+- 🌱 No momento estou focada em estudar sobre **Gestão de Projetos, Power BI, SQL e Qlik Sense**  
 
 - 📫 Como me contatar: **kessiacientistadedados@gmail.com**
 
